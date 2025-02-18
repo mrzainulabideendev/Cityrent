@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162012395599",
+    "project_id": "car-rent-91119",
+    "storage_bucket": "car-rent-91119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162012395599:android:c68228cb110a62102d123a",
+        "android_client_info": {
+          "package_name": "com.zain_car_rent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWiCzwV9qVLwAkQeI1XcSVHJjJFlV0RrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
